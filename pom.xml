@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.237.243.214:8081/repository/audi-project1release/</url>
+	      <url>http://54.245.70.236:8081/repository/Toyota-fe-production-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-              <url>http://18.237.243.214:8081/repository/audi-project1-snapshots/</url>
+              <url>http://54.245.70.236:8081/repository/Toyota-fe-production-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
