@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.245.70.236:8081/repository/Toyota-fe-production-releases/</url>
+	      <url>http://172.31.10.192:8081/repository/Toyota-fe-production-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-              <url>http://54.245.70.236:8081/repository/Toyota-fe-production-snapshot/</url>
+              <url>http://172.31.10.192:8081/repository/Toyota-fe-production-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
